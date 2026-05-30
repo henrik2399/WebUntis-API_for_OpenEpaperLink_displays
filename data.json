@@ -1,0 +1,2704 @@
+{
+  "timestamp": "2025-10-13T12:50:02.261343",
+  "date": "Montag, 13. Oktober 2025",
+  "rooms": {
+    "034": {
+      "name": "034",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "Eb",
+          "subject": "DeK",
+          "teacher": "DET",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Eb",
+          "subject": "DeK",
+          "teacher": "DET",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Eb",
+          "subject": "DeK",
+          "teacher": "ZIL",
+          "status": "changed"
+        }
+      ],
+      "count": 3
+    },
+    "047": {
+      "name": "047",
+      "lessons": [
+        {
+          "time": "09:45–10:30",
+          "class": "5a,5e",
+          "subject": "Re1",
+          "teacher": "BÜN",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "5a,5e",
+          "subject": "Re1",
+          "teacher": "BÜN",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "5a,5e",
+          "subject": "Re1",
+          "teacher": "BÜN",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "5a,5e",
+          "subject": "Re1",
+          "teacher": "BÜN",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "5a",
+          "subject": "De",
+          "teacher": "DRE",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "5a",
+          "subject": "If",
+          "teacher": "FUS",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "5a,5b,5c,5d,5e",
+          "subject": "FöMa5",
+          "teacher": "SMO",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "5a,5b,5c,5d,5e",
+          "subject": "FöMa5",
+          "teacher": "SMO",
+          "status": "normal"
+        }
+      ],
+      "count": 8
+    },
+    "048": {
+      "name": "048",
+      "lessons": [
+        {
+          "time": "09:45–10:30",
+          "class": "5a,5b",
+          "subject": "Re2",
+          "teacher": "RIT",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "5a,5b",
+          "subject": "Re2",
+          "teacher": "RIT",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Q1a,Q1b",
+          "subject": "DeG1",
+          "teacher": "FRO",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Q1a,Q1b",
+          "subject": "DeG1",
+          "teacher": "FRO",
+          "status": "normal"
+        }
+      ],
+      "count": 4
+    },
+    "049": {
+      "name": "049",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "9a",
+          "subject": "Ge",
+          "teacher": "GER",
+          "status": "cancelled"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "9a",
+          "subject": "Ge",
+          "teacher": "GER",
+          "status": "cancelled"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "9a",
+          "subject": "En2",
+          "teacher": "FOX",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "9a",
+          "subject": "De",
+          "teacher": "RAT",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "9a",
+          "subject": "De",
+          "teacher": "RAT",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "9a,9b,9c,9d",
+          "subject": "Gr31",
+          "teacher": "MEI",
+          "status": "cancelled"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "9a,9b,9c,9d",
+          "subject": "Gr31",
+          "teacher": "MEI",
+          "status": "cancelled"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "9a,9b,9c,9d",
+          "subject": "Gr31",
+          "teacher": "MEI",
+          "status": "cancelled"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "9a,9b,9c,9d",
+          "subject": "Gr31",
+          "teacher": "MEI",
+          "status": "cancelled"
+        }
+      ],
+      "count": 9
+    },
+    "050": {
+      "name": "050",
+      "lessons": [
+        {
+          "time": "09:45–10:30",
+          "class": "5c",
+          "subject": "Re3",
+          "teacher": "DÖR",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "5c",
+          "subject": "Re3",
+          "teacher": "DÖR",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "5b",
+          "subject": "If",
+          "teacher": "FUS",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "9a,9b,9c,9d",
+          "subject": "Fr31",
+          "teacher": "JOY",
+          "status": "cancelled"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "9a,9b,9c,9d",
+          "subject": "Fr31",
+          "teacher": "JOY",
+          "status": "cancelled"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "9a,9b,9c,9d",
+          "subject": "Fr31",
+          "teacher": "JOY",
+          "status": "cancelled"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "9a,9b,9c,9d",
+          "subject": "Fr31",
+          "teacher": "JOY",
+          "status": "cancelled"
+        }
+      ],
+      "count": 7
+    },
+    "051": {
+      "name": "051",
+      "lessons": [
+        {
+          "time": "09:45–10:30",
+          "class": "9b",
+          "subject": "Ma",
+          "teacher": "LOD",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "9b",
+          "subject": "Ma",
+          "teacher": "LOD",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "9b",
+          "subject": "Fr21",
+          "teacher": "STB",
+          "status": "normal"
+        }
+      ],
+      "count": 3
+    },
+    "052": {
+      "name": "052",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "5d",
+          "subject": "Ma",
+          "teacher": "SAL",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "5d",
+          "subject": "Ma",
+          "teacher": "SAL",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "5a,5d",
+          "subject": "Re4",
+          "teacher": "STE",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "5a,5d",
+          "subject": "Re4",
+          "teacher": "STE",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Q1a,Q1b,Q1c,Q1d",
+          "subject": "DeK",
+          "teacher": "ARN",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Q1a,Q1b,Q1c,Q1d",
+          "subject": "DeK",
+          "teacher": "ARN",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "5d",
+          "subject": "En1",
+          "teacher": "BEN,SAL",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "5d",
+          "subject": "En1",
+          "teacher": "BEN,SAL",
+          "status": "normal"
+        }
+      ],
+      "count": 8
+    },
+    "053": {
+      "name": "053",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "5e",
+          "subject": "En1",
+          "teacher": "WGE",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "5e",
+          "subject": "En1",
+          "teacher": "WGE",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "5d,5e",
+          "subject": "Phi1",
+          "teacher": "PTA",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "5d,5e",
+          "subject": "Phi1",
+          "teacher": "PTA",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "5d,5e",
+          "subject": "Phi1",
+          "teacher": "PTA",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "5d,5e",
+          "subject": "Phi1",
+          "teacher": "PTA",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "5e",
+          "subject": "De",
+          "teacher": "BÜN",
+          "status": "cancelled"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "5e",
+          "subject": "De",
+          "teacher": "BÜN",
+          "status": "cancelled"
+        }
+      ],
+      "count": 8
+    },
+    "062": {
+      "name": "062",
+      "lessons": [
+        {
+          "time": "13:15–14:00",
+          "class": "5a,5b,5c,5d,5e,6a,6b,6c,6d,7a,7b,7c,7d",
+          "subject": "LRS",
+          "teacher": "FRO",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "5a,5b,5c,5d,5e,6a,6b,6c,6d,7a,7b,7c,7d",
+          "subject": "LRS",
+          "teacher": "FRO",
+          "status": "normal"
+        }
+      ],
+      "count": 2
+    },
+    "063": {
+      "name": "063",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "6a",
+          "subject": "Mu",
+          "teacher": "PTA",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "6a",
+          "subject": "Mu",
+          "teacher": "PTA",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "8c",
+          "subject": "Mu",
+          "teacher": "MIK",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q1d",
+          "subject": "MuP",
+          "teacher": "ALB",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "8c",
+          "subject": "Mu",
+          "teacher": "MIK",
+          "status": "cancelled"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q1d",
+          "subject": "MuP",
+          "teacher": "ALB",
+          "status": "normal"
+        }
+      ],
+      "count": 6
+    },
+    "064": {
+      "name": "064",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "6c",
+          "subject": "Mu",
+          "teacher": "MIK",
+          "status": "cancelled"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "6c",
+          "subject": "Mu",
+          "teacher": "MIK",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Q1d",
+          "subject": "MuP",
+          "teacher": "ALB",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "10a",
+          "subject": "Mu",
+          "teacher": "MIK",
+          "status": "cancelled"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "10a",
+          "subject": "Mu",
+          "teacher": "MIK",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "10a",
+          "subject": "Mu",
+          "teacher": "MIK",
+          "status": "changed"
+        },
+        {
+          "time": "14:05–14:50",
+          "class": "Ea",
+          "subject": "MuP",
+          "teacher": "HEG",
+          "status": "normal"
+        },
+        {
+          "time": "14:50–15:35",
+          "class": "Ea",
+          "subject": "MuP",
+          "teacher": "HEG",
+          "status": "normal"
+        },
+        {
+          "time": "15:45–16:30",
+          "class": "8a,8b,8c,8d,9a,9b,9c,9d,10a,10b,10c,10d,Ea,Eb,Ec,Ed,Q1a,Q1b,Q1c,Q1d,Q2a",
+          "subject": "HOr",
+          "teacher": "HEG,SUT",
+          "status": "normal"
+        },
+        {
+          "time": "15:45–16:30",
+          "class": "8a,8b,8c,8d,9a,9b,9c,9d,10a,10b,10c,10d,Ea,Eb,Ec,Ed,Q1a,Q1b,Q1c,Q1d,Q2a",
+          "subject": "HOr",
+          "teacher": "HEG,SUT",
+          "status": "normal"
+        },
+        {
+          "time": "16:30–17:15",
+          "class": "8a,8b,8c,8d,9a,9b,9c,9d,10a,10b,10c,10d,Ea,Eb,Ec,Ed,Q1a,Q1b,Q1c,Q1d,Q2a",
+          "subject": "HOr",
+          "teacher": "HEG,SUT",
+          "status": "normal"
+        },
+        {
+          "time": "16:30–17:15",
+          "class": "8a,8b,8c,8d,9a,9b,9c,9d,10a,10b,10c,10d,Ea,Eb,Ec,Ed,Q1a,Q1b,Q1c,Q1d,Q2a",
+          "subject": "HOr",
+          "teacher": "HEG,SUT",
+          "status": "normal"
+        }
+      ],
+      "count": 12
+    },
+    "169": {
+      "name": "169",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "10c",
+          "subject": "Ma",
+          "teacher": "GEB",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "10c",
+          "subject": "De",
+          "teacher": "ROH",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10a,10b,10c,10d",
+          "subject": "Gr31",
+          "teacher": "KAF",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10a,10b,10c,10d",
+          "subject": "Gr31",
+          "teacher": "KAF",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10a,10b,10c,10d",
+          "subject": "Gr31",
+          "teacher": "KAF",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10a,10b,10c,10d",
+          "subject": "Gr31",
+          "teacher": "KAF",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "10c",
+          "subject": "Geo",
+          "teacher": "KRA",
+          "status": "cancelled"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "10c",
+          "subject": "Geo",
+          "teacher": "KRA",
+          "status": "cancelled"
+        }
+      ],
+      "count": 8
+    },
+    "170": {
+      "name": "170",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "10b",
+          "subject": "De",
+          "teacher": "PUZ",
+          "status": "cancelled"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "10b",
+          "subject": "De",
+          "teacher": "PUZ",
+          "status": "cancelled"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10a,10b,10d",
+          "subject": "Fr31",
+          "teacher": "NAU",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10a,10b,10d",
+          "subject": "Fr31",
+          "teacher": "NAU",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10a,10b,10d",
+          "subject": "Fr31",
+          "teacher": "NAU",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10a,10b,10d",
+          "subject": "Fr31",
+          "teacher": "NAU",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "8b",
+          "subject": "La1",
+          "teacher": "SAA",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "10b",
+          "subject": "Ge",
+          "teacher": "GER",
+          "status": "cancelled"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "8b",
+          "subject": "La1",
+          "teacher": "SAA",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "8b",
+          "subject": "La1",
+          "teacher": "SAA",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "10b",
+          "subject": "Ge",
+          "teacher": "GER",
+          "status": "cancelled"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "8b",
+          "subject": "La1",
+          "teacher": "SAA",
+          "status": "normal"
+        }
+      ],
+      "count": 12
+    },
+    "171": {
+      "name": "171",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "10a",
+          "subject": "La1",
+          "teacher": "FRO",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "10a",
+          "subject": "La1",
+          "teacher": "FRO",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10c,10d",
+          "subject": "La31",
+          "teacher": "VOG",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10c,10d",
+          "subject": "La31",
+          "teacher": "VOG",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10c,10d",
+          "subject": "La31",
+          "teacher": "VOG",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10c,10d",
+          "subject": "La31",
+          "teacher": "VOG",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Re1",
+          "teacher": "DÖR",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Re1",
+          "teacher": "DÖR",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Re1",
+          "teacher": "DÖR",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Re1",
+          "teacher": "DÖR",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "10a",
+          "subject": "De",
+          "teacher": "ABD",
+          "status": "cancelled"
+        }
+      ],
+      "count": 11
+    },
+    "172": {
+      "name": "172",
+      "lessons": [
+        {
+          "time": "12:25–13:10",
+          "class": "5d",
+          "subject": "En1",
+          "teacher": "BEN,SAL",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "5d",
+          "subject": "En1",
+          "teacher": "BEN,SAL",
+          "status": "normal"
+        }
+      ],
+      "count": 2
+    },
+    "173": {
+      "name": "173",
+      "lessons": [
+        {
+          "time": "11:35–12:20",
+          "class": "9d",
+          "subject": "MT",
+          "teacher": "",
+          "status": "changed"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "9d",
+          "subject": "Fr23",
+          "teacher": "JOY",
+          "status": "cancelled"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "9d",
+          "subject": "MT",
+          "teacher": "",
+          "status": "changed"
+        }
+      ],
+      "count": 3
+    },
+    "174": {
+      "name": "174",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "7a",
+          "subject": "De",
+          "teacher": "KEM",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "7a",
+          "subject": "De",
+          "teacher": "KEM",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "7a",
+          "subject": "En2",
+          "teacher": "DET",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "7a",
+          "subject": "En2",
+          "teacher": "DET",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Q1d",
+          "subject": "DeG3",
+          "teacher": "BRA",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Q1d",
+          "subject": "DeG3",
+          "teacher": "BRA",
+          "status": "normal"
+        }
+      ],
+      "count": 6
+    },
+    "175": {
+      "name": "175",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "10d",
+          "subject": "En1",
+          "teacher": "SUL",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "10d",
+          "subject": "Ma",
+          "teacher": "LOD",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "7b",
+          "subject": "La1",
+          "teacher": "ARN",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "7b",
+          "subject": "La1",
+          "teacher": "LEB",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "7b",
+          "subject": "Ma",
+          "teacher": "FEL",
+          "status": "changed"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "7b",
+          "subject": "KL",
+          "teacher": "MEI",
+          "status": "cancelled"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "7b",
+          "subject": "Ma",
+          "teacher": "FEL",
+          "status": "changed"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "7b",
+          "subject": "Ma",
+          "teacher": "FEL",
+          "status": "cancelled"
+        }
+      ],
+      "count": 8
+    },
+    "178": {
+      "name": "178",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "Ea",
+          "subject": "DeK",
+          "teacher": "ABD",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Ea",
+          "subject": "DeK",
+          "teacher": "ABD",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Ea",
+          "subject": "Bo",
+          "teacher": "LEB",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "8a",
+          "subject": "La1",
+          "teacher": "KAF",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "8a",
+          "subject": "La1",
+          "teacher": "KAF",
+          "status": "normal"
+        },
+        {
+          "time": "14:05–14:50",
+          "class": "Ea,Ed",
+          "subject": "EnP",
+          "teacher": "BEN",
+          "status": "normal"
+        },
+        {
+          "time": "14:05–14:50",
+          "class": "Ea,Ed",
+          "subject": "EnP",
+          "teacher": "BEN",
+          "status": "normal"
+        },
+        {
+          "time": "14:50–15:35",
+          "class": "Ea,Ed",
+          "subject": "EnP",
+          "teacher": "BEN",
+          "status": "normal"
+        },
+        {
+          "time": "14:50–15:35",
+          "class": "Ea,Ed",
+          "subject": "EnP",
+          "teacher": "BEN",
+          "status": "normal"
+        }
+      ],
+      "count": 9
+    },
+    "179": {
+      "name": "179",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "Q1a,Q1b",
+          "subject": "Geo1",
+          "teacher": "WIN",
+          "status": "normal"
+        },
+        {
+          "time": "08:00–08:45",
+          "class": "Q1a,Q1b",
+          "subject": "Geo1",
+          "teacher": "WIN",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Q1a,Q1b",
+          "subject": "Geo1",
+          "teacher": "WIN",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Q1a,Q1b",
+          "subject": "Geo1",
+          "teacher": "WIN",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "6c",
+          "subject": "En1",
+          "teacher": "FRA",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "6c",
+          "subject": "En1",
+          "teacher": "FRA",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "6c",
+          "subject": "Ma",
+          "teacher": "SMO",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "6c",
+          "subject": "Ma",
+          "teacher": "SMO",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "Q1b",
+          "subject": "Ge",
+          "teacher": "HEG",
+          "status": "normal"
+        }
+      ],
+      "count": 9
+    },
+    "180": {
+      "name": "180",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "6d",
+          "subject": "Ma",
+          "teacher": "SRA",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "6d",
+          "subject": "Ma",
+          "teacher": "SRA",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "6d",
+          "subject": "En1",
+          "teacher": "NOE",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "6d",
+          "subject": "En1",
+          "teacher": "NOE",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "6d",
+          "subject": "De",
+          "teacher": "GÖD",
+          "status": "normal"
+        }
+      ],
+      "count": 5
+    },
+    "183": {
+      "name": "183",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "6b",
+          "subject": "La1",
+          "teacher": "STE",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "6b",
+          "subject": "La1",
+          "teacher": "STE",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Ed",
+          "subject": "DeK",
+          "teacher": "RAT",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "6b",
+          "subject": "Ma",
+          "teacher": "SRA",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "6b",
+          "subject": "Ma",
+          "teacher": "SRA",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "6b",
+          "subject": "Le",
+          "teacher": "WIN",
+          "status": "normal"
+        },
+        {
+          "time": "14:50–15:35",
+          "class": "Eb",
+          "subject": "Bo",
+          "teacher": "OLB",
+          "status": "normal"
+        }
+      ],
+      "count": 7
+    },
+    "184": {
+      "name": "184",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "Q1b,Q1d",
+          "subject": "Geo2",
+          "teacher": "KRA",
+          "status": "cancelled"
+        },
+        {
+          "time": "08:00–08:45",
+          "class": "Q1b,Q1d",
+          "subject": "Geo2",
+          "teacher": "KRA",
+          "status": "cancelled"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Q1b,Q1d",
+          "subject": "Geo2",
+          "teacher": "KRA",
+          "status": "cancelled"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Q1b,Q1d",
+          "subject": "Geo2",
+          "teacher": "KRA",
+          "status": "cancelled"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10a,10b,10c,10d",
+          "subject": "Fr32",
+          "teacher": "STB",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10a,10b,10c,10d",
+          "subject": "Fr32",
+          "teacher": "STB",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10a,10b,10c,10d",
+          "subject": "Fr32",
+          "teacher": "STB",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10a,10b,10c,10d",
+          "subject": "Fr32",
+          "teacher": "STB",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "6a",
+          "subject": "La1",
+          "teacher": "LEB",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "6a",
+          "subject": "La1",
+          "teacher": "LEB",
+          "status": "normal"
+        }
+      ],
+      "count": 10
+    },
+    "202": {
+      "name": "202",
+      "lessons": [
+        {
+          "time": "08:45–09:30",
+          "class": "8b",
+          "subject": "En2",
+          "teacher": "VOG",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "9c",
+          "subject": "Ma",
+          "teacher": "KLI",
+          "status": "changed"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "9c",
+          "subject": "Fr22",
+          "teacher": "GRI",
+          "status": "cancelled"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "9c",
+          "subject": "Ma",
+          "teacher": "KLI",
+          "status": "changed"
+        }
+      ],
+      "count": 4
+    },
+    "203": {
+      "name": "203",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "Q2a",
+          "subject": "GeP",
+          "teacher": "FOX",
+          "status": "normal"
+        },
+        {
+          "time": "08:00–08:45",
+          "class": "Q2a",
+          "subject": "GeP",
+          "teacher": "FOX",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Q2a",
+          "subject": "MaG",
+          "teacher": "GEB",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Q2a",
+          "subject": "MaG",
+          "teacher": "GEB",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q2a",
+          "subject": "Phy",
+          "teacher": "KAU",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q2a",
+          "subject": "Phy",
+          "teacher": "KAU",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Q2a",
+          "subject": "EnK",
+          "teacher": "FRA",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Q2a",
+          "subject": "EnK",
+          "teacher": "FRA",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "Q2a",
+          "subject": "EnK",
+          "teacher": "FRA",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "Q2a",
+          "subject": "EnK",
+          "teacher": "FRA",
+          "status": "normal"
+        }
+      ],
+      "count": 10
+    },
+    "204": {
+      "name": "204",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "8b,8c,8d",
+          "subject": "La21",
+          "teacher": "MEI",
+          "status": "cancelled"
+        },
+        {
+          "time": "08:00–08:45",
+          "class": "8b,8c,8d",
+          "subject": "La21",
+          "teacher": "MEI",
+          "status": "cancelled"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "8b,8c,8d",
+          "subject": "La21",
+          "teacher": "MEI",
+          "status": "cancelled"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "8b,8c,8d",
+          "subject": "La21",
+          "teacher": "MEI",
+          "status": "cancelled"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "5a,5b,5c",
+          "subject": "Phi2",
+          "teacher": "SIE",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "5a,5b,5c",
+          "subject": "Phi2",
+          "teacher": "SIE",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "7c",
+          "subject": "En1",
+          "teacher": "BEH",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "7c",
+          "subject": "De",
+          "teacher": "STB",
+          "status": "normal"
+        }
+      ],
+      "count": 8
+    },
+    "205": {
+      "name": "205",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "7c",
+          "subject": "Fr21",
+          "teacher": "GRI",
+          "status": "cancelled"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "7c",
+          "subject": "Fr21",
+          "teacher": "GRI",
+          "status": "cancelled"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "7d",
+          "subject": "Ma",
+          "teacher": "KAU",
+          "status": "changed"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "7d",
+          "subject": "Geo",
+          "teacher": "KRA",
+          "status": "cancelled"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "7d",
+          "subject": "Ma",
+          "teacher": "KAU",
+          "status": "changed"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "7d",
+          "subject": "Geo",
+          "teacher": "GÖD",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "7d",
+          "subject": "Ma",
+          "teacher": "KAU",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "7d",
+          "subject": "Ma",
+          "teacher": "KAU",
+          "status": "cancelled"
+        }
+      ],
+      "count": 8
+    },
+    "207": {
+      "name": "207",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "Ec",
+          "subject": "DeK",
+          "teacher": "BÜN",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Ec",
+          "subject": "DeK",
+          "teacher": "BÜN",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Ec",
+          "subject": "MaK",
+          "teacher": "SPE",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Phi2",
+          "teacher": "PTA",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Phi2",
+          "teacher": "PTA",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Phi2",
+          "teacher": "PTA",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Phi2",
+          "teacher": "PTA",
+          "status": "normal"
+        },
+        {
+          "time": "14:05–14:50",
+          "class": "Ec",
+          "subject": "GeP",
+          "teacher": "SIE",
+          "status": "normal"
+        },
+        {
+          "time": "14:50–15:35",
+          "class": "Ec",
+          "subject": "GeP",
+          "teacher": "SIE",
+          "status": "normal"
+        }
+      ],
+      "count": 9
+    },
+    "208": {
+      "name": "208",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "8a,8b,8d",
+          "subject": "Fr21",
+          "teacher": "TES",
+          "status": "normal"
+        },
+        {
+          "time": "08:00–08:45",
+          "class": "8a,8b,8d",
+          "subject": "Fr21",
+          "teacher": "TES",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "8a,8b,8d",
+          "subject": "Fr21",
+          "teacher": "TES",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "8a,8b,8d",
+          "subject": "Fr21",
+          "teacher": "TES",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "8b",
+          "subject": "Ma",
+          "teacher": "REI",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "8b",
+          "subject": "Ma",
+          "teacher": "REI",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Re2",
+          "teacher": "PUZ",
+          "status": "cancelled"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Re2",
+          "teacher": "PUZ",
+          "status": "cancelled"
+        }
+      ],
+      "count": 8
+    },
+    "209": {
+      "name": "209",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "7d",
+          "subject": "Fr22",
+          "teacher": "STB",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "7d",
+          "subject": "Fr22",
+          "teacher": "STB",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "8a",
+          "subject": "Geo",
+          "teacher": "WIN",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "8a",
+          "subject": "De",
+          "teacher": "BRA",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "8a,8b",
+          "subject": "En1",
+          "teacher": "FOX",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "8a,8b",
+          "subject": "En1",
+          "teacher": "FOX",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "8a,8b",
+          "subject": "En1",
+          "teacher": "FOX",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "8a,8b",
+          "subject": "En1",
+          "teacher": "FOX",
+          "status": "normal"
+        }
+      ],
+      "count": 8
+    },
+    "211": {
+      "name": "211",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "8c,8d",
+          "subject": "Fr22",
+          "teacher": "NAU",
+          "status": "normal"
+        },
+        {
+          "time": "08:00–08:45",
+          "class": "8c,8d",
+          "subject": "Fr22",
+          "teacher": "NAU",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "8c,8d",
+          "subject": "Fr22",
+          "teacher": "NAU",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "8c,8d",
+          "subject": "Fr22",
+          "teacher": "NAU",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "8c",
+          "subject": "Ma",
+          "teacher": "REI",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "8c",
+          "subject": "Ge",
+          "teacher": "RIT",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "8c",
+          "subject": "Ge",
+          "teacher": "RIT",
+          "status": "normal"
+        }
+      ],
+      "count": 7
+    },
+    "212": {
+      "name": "212",
+      "lessons": [
+        {
+          "time": "11:35–12:20",
+          "class": "8d",
+          "subject": "Ma",
+          "teacher": "LOD",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "8d",
+          "subject": "Ma",
+          "teacher": "LOD",
+          "status": "normal"
+        }
+      ],
+      "count": 2
+    },
+    "Aul": {
+      "name": "Aul",
+      "lessons": [
+        {
+          "time": "10:35–11:20",
+          "class": "",
+          "subject": "",
+          "teacher": "MIK",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "5a,5b,5c,5d,5e,6a,6b,6c,6d",
+          "subject": "JOr",
+          "teacher": "SUT",
+          "status": "normal"
+        }
+      ],
+      "count": 2
+    },
+    "BiH": {
+      "name": "BiH",
+      "lessons": [
+        {
+          "time": "09:45–10:30",
+          "class": "Q2a",
+          "subject": "Bi",
+          "teacher": "FUS",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Bi3",
+          "teacher": "BEL",
+          "status": "normal"
+        }
+      ],
+      "count": 2
+    },
+    "BiÜ": {
+      "name": "BiÜ",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "5c",
+          "subject": "Bi",
+          "teacher": "KAF",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "5c",
+          "subject": "Bi",
+          "teacher": "KAF",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "7c",
+          "subject": "Bi",
+          "teacher": "MAT",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "7c",
+          "subject": "Bi",
+          "teacher": "MAT",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "9a,9b,9c,9d",
+          "subject": "Nw12",
+          "teacher": "MAT",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "9a,9b,9c,9d",
+          "subject": "Nw12",
+          "teacher": "MAT",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "9a,9b,9c,9d",
+          "subject": "Nw12",
+          "teacher": "MAT",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "9a,9b,9c,9d",
+          "subject": "Nw12",
+          "teacher": "MAT",
+          "status": "normal"
+        }
+      ],
+      "count": 8
+    },
+    "ChH": {
+      "name": "ChH",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "9b",
+          "subject": "Ch",
+          "teacher": "SPE",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "9b",
+          "subject": "Ch",
+          "teacher": "SPE",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10a,10b,10c",
+          "subject": "Nw11",
+          "teacher": "PRE",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10a,10b,10c",
+          "subject": "Nw11",
+          "teacher": "PRE",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10a,10b,10c",
+          "subject": "Nw11",
+          "teacher": "PRE",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10a,10b,10c",
+          "subject": "Nw11",
+          "teacher": "PRE",
+          "status": "normal"
+        }
+      ],
+      "count": 6
+    },
+    "ChÜ": {
+      "name": "ChÜ",
+      "lessons": [
+        {
+          "time": "10:35–11:20",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Ch2",
+          "teacher": "FUS",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Ch2",
+          "teacher": "FUS",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "9a,9b,9c,9d",
+          "subject": "Nw22",
+          "teacher": "BEL",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "9a,9b,9c,9d",
+          "subject": "Nw22",
+          "teacher": "BEL",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "9a,9b,9c,9d",
+          "subject": "Nw22",
+          "teacher": "BEL",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "9a,9b,9c,9d",
+          "subject": "Nw22",
+          "teacher": "BEL",
+          "status": "normal"
+        },
+        {
+          "time": "14:05–14:50",
+          "class": "10d",
+          "subject": "Bi",
+          "teacher": "BEL",
+          "status": "normal"
+        },
+        {
+          "time": "14:50–15:35",
+          "class": "10d",
+          "subject": "Bi",
+          "teacher": "BEL",
+          "status": "normal"
+        }
+      ],
+      "count": 8
+    },
+    "G02": {
+      "name": "G02",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "",
+          "subject": "Betr",
+          "teacher": "SMO",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "",
+          "subject": "Betr",
+          "teacher": "SMO",
+          "status": "normal"
+        }
+      ],
+      "count": 2
+    },
+    "G09": {
+      "name": "G09",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "Q1a,Q1b,Q1d",
+          "subject": "Wp1",
+          "teacher": "LEB",
+          "status": "normal"
+        },
+        {
+          "time": "08:00–08:45",
+          "class": "Q1a,Q1b,Q1d",
+          "subject": "Wp1",
+          "teacher": "LEB",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Q1a,Q1b,Q1d",
+          "subject": "Wp1",
+          "teacher": "LEB",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Q1a,Q1b,Q1d",
+          "subject": "Wp1",
+          "teacher": "LEB",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "9c",
+          "subject": "De",
+          "teacher": "GÖD",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "9c",
+          "subject": "KL",
+          "teacher": "GRI",
+          "status": "cancelled"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "9c",
+          "subject": "En1",
+          "teacher": "FOX",
+          "status": "changed"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "9c",
+          "subject": "KL",
+          "teacher": "GRI",
+          "status": "cancelled"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "9b,9c,9d",
+          "subject": "La31",
+          "teacher": "VOG",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "9b,9c,9d",
+          "subject": "La31",
+          "teacher": "VOG",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "9b,9c,9d",
+          "subject": "La31",
+          "teacher": "VOG",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "9b,9c,9d",
+          "subject": "La31",
+          "teacher": "VOG",
+          "status": "normal"
+        }
+      ],
+      "count": 12
+    },
+    "G10": {
+      "name": "G10",
+      "lessons": [
+        {
+          "time": "09:45–10:30",
+          "class": "10c,10d",
+          "subject": "Nw22",
+          "teacher": "FEL",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "10c,10d",
+          "subject": "Nw22",
+          "teacher": "FEL",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10c,10d",
+          "subject": "Nw22",
+          "teacher": "FEL",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "10c,10d",
+          "subject": "Nw22",
+          "teacher": "FEL",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "Q1b",
+          "subject": "IfA",
+          "teacher": "KLI",
+          "status": "normal"
+        },
+        {
+          "time": "14:05–14:50",
+          "class": "Q1b",
+          "subject": "IfA",
+          "teacher": "KLI",
+          "status": "normal"
+        }
+      ],
+      "count": 6
+    },
+    "G13": {
+      "name": "G13",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "Q1c",
+          "subject": "Wp2",
+          "teacher": "NOE",
+          "status": "normal"
+        },
+        {
+          "time": "08:00–08:45",
+          "class": "Q1c",
+          "subject": "Wp2",
+          "teacher": "NOE",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Q1c",
+          "subject": "Wp2",
+          "teacher": "NOE",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Q1c",
+          "subject": "Wp2",
+          "teacher": "NOE",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Q1c",
+          "subject": "GeS",
+          "teacher": "KEM",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Q1c",
+          "subject": "GeS",
+          "teacher": "KEM",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q1c",
+          "subject": "GeS",
+          "teacher": "KEM",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q1c",
+          "subject": "GeS",
+          "teacher": "KEM",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Q1b,Q1c",
+          "subject": "DeG2",
+          "teacher": "WIN",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Q1b,Q1c",
+          "subject": "DeG2",
+          "teacher": "WIN",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "Q1c",
+          "subject": "GeP",
+          "teacher": "KEM",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "Q1c",
+          "subject": "GeP",
+          "teacher": "KEM",
+          "status": "normal"
+        }
+      ],
+      "count": 12
+    },
+    "G14": {
+      "name": "G14",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "9d",
+          "subject": "De",
+          "teacher": "RAT",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "9d",
+          "subject": "De",
+          "teacher": "RAT",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Q1a",
+          "subject": "EnP",
+          "teacher": "BEH",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Q1a",
+          "subject": "EnP",
+          "teacher": "BEH",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q1a",
+          "subject": "EnP",
+          "teacher": "BEH",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q1a",
+          "subject": "EnP",
+          "teacher": "BEH",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Phi1",
+          "teacher": "SIE",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Phi1",
+          "teacher": "SIE",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "Q1a",
+          "subject": "EnP",
+          "teacher": "BEH",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "Q1a",
+          "subject": "EnP",
+          "teacher": "BEH",
+          "status": "normal"
+        }
+      ],
+      "count": 10
+    },
+    "G18": {
+      "name": "G18",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "Ed",
+          "subject": "Geo",
+          "teacher": "ARN",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "Ed",
+          "subject": "Geo",
+          "teacher": "ARN",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "9d",
+          "subject": "Ma",
+          "teacher": "GEB",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "9d",
+          "subject": "Ma",
+          "teacher": "GEB",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "9b,9c,9d",
+          "subject": "La21",
+          "teacher": "VOG",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "9b,9c,9d",
+          "subject": "La21",
+          "teacher": "VOG",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "Q1d",
+          "subject": "Ge",
+          "teacher": "OLB",
+          "status": "normal"
+        },
+        {
+          "time": "14:05–14:50",
+          "class": "Q1d",
+          "subject": "Ge",
+          "teacher": "OLB",
+          "status": "normal"
+        }
+      ],
+      "count": 8
+    },
+    "G19": {
+      "name": "G19",
+      "lessons": [
+        {
+          "time": "09:45–10:30",
+          "class": "Q1d",
+          "subject": "KuP",
+          "teacher": "ASM,WEB",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Q1d",
+          "subject": "KuP",
+          "teacher": "ASM,WEB",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q1d",
+          "subject": "KuP",
+          "teacher": "ASM,WEB",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q1d",
+          "subject": "KuP",
+          "teacher": "ASM,WEB",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "7a",
+          "subject": "Ku",
+          "teacher": "ASM,WEB",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "7a",
+          "subject": "Ku",
+          "teacher": "ASM,WEB",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "7a",
+          "subject": "Ku",
+          "teacher": "ASM,WEB",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "7a",
+          "subject": "Ku",
+          "teacher": "ASM,WEB",
+          "status": "normal"
+        },
+        {
+          "time": "14:05–14:50",
+          "class": "Ed",
+          "subject": "KuP",
+          "teacher": "WIE",
+          "status": "normal"
+        },
+        {
+          "time": "14:50–15:35",
+          "class": "Ed",
+          "subject": "KuP",
+          "teacher": "WIE",
+          "status": "normal"
+        }
+      ],
+      "count": 10
+    },
+    "G21": {
+      "name": "G21",
+      "lessons": [
+        {
+          "time": "09:45–10:30",
+          "class": "6a",
+          "subject": "Ku",
+          "teacher": "DRE",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "6a",
+          "subject": "Ku",
+          "teacher": "DRE",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "10d",
+          "subject": "Ku",
+          "teacher": "WIE",
+          "status": "cancelled"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "10d",
+          "subject": "Ku",
+          "teacher": "WIE",
+          "status": "normal"
+        },
+        {
+          "time": "13:15–14:00",
+          "class": "10d",
+          "subject": "Ku",
+          "teacher": "WIE",
+          "status": "changed"
+        }
+      ],
+      "count": 5
+    },
+    "PhH": {
+      "name": "PhH",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "9c",
+          "subject": "Phy",
+          "teacher": "KAU",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "9c",
+          "subject": "Phy",
+          "teacher": "KAU",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "Q1b",
+          "subject": "PhyP",
+          "teacher": "KLI",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Q1b",
+          "subject": "PhyP",
+          "teacher": "KLI",
+          "status": "normal"
+        }
+      ],
+      "count": 4
+    },
+    "PhÜ": {
+      "name": "PhÜ",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "7b",
+          "subject": "Phy",
+          "teacher": "FEL",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "7b",
+          "subject": "Phy",
+          "teacher": "FEL",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "Ea,Eb,Ec,Ed",
+          "subject": "Phy",
+          "teacher": "ZIL",
+          "status": "normal"
+        }
+      ],
+      "count": 3
+    },
+    "T03": {
+      "name": "T03",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "5b",
+          "subject": "Sp",
+          "teacher": "DRE",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "5b",
+          "subject": "Sp",
+          "teacher": "DRE",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "6b",
+          "subject": "Sp",
+          "teacher": "SRA",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "",
+          "subject": "Sp",
+          "teacher": "ext",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "5d",
+          "subject": "Sp",
+          "teacher": "BEN",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "6d",
+          "subject": "Sp",
+          "teacher": "DRE",
+          "status": "normal"
+        },
+        {
+          "time": "14:05–14:50",
+          "class": "Q1a",
+          "subject": "Sp",
+          "teacher": "HUN",
+          "status": "normal"
+        },
+        {
+          "time": "14:50–15:35",
+          "class": "Q1a",
+          "subject": "Sp",
+          "teacher": "HUN",
+          "status": "normal"
+        }
+      ],
+      "count": 8
+    },
+    "T17": {
+      "name": "T17",
+      "lessons": [
+        {
+          "time": "08:00–08:45",
+          "class": "5a",
+          "subject": "Sp",
+          "teacher": "SCH",
+          "status": "normal"
+        },
+        {
+          "time": "08:45–09:30",
+          "class": "5a",
+          "subject": "Sp",
+          "teacher": "SCH",
+          "status": "normal"
+        },
+        {
+          "time": "09:45–10:30",
+          "class": "8d",
+          "subject": "Sp",
+          "teacher": "HUN",
+          "status": "normal"
+        },
+        {
+          "time": "10:35–11:20",
+          "class": "8d",
+          "subject": "Sp",
+          "teacher": "HUN",
+          "status": "normal"
+        },
+        {
+          "time": "11:35–12:20",
+          "class": "5c",
+          "subject": "Sp",
+          "teacher": "HUN",
+          "status": "normal"
+        },
+        {
+          "time": "12:25–13:10",
+          "class": "5c",
+          "subject": "Sp",
+          "teacher": "HUN",
+          "status": "normal"
+        }
+      ],
+      "count": 6
+    }
+  },
+  "available_rooms": [
+    "034",
+    "047",
+    "048",
+    "049",
+    "050",
+    "051",
+    "052",
+    "053",
+    "062",
+    "063",
+    "064",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "178",
+    "179",
+    "180",
+    "183",
+    "184",
+    "202",
+    "203",
+    "204",
+    "205",
+    "207",
+    "208",
+    "209",
+    "211",
+    "212",
+    "Aul",
+    "BiH",
+    "BiÜ",
+    "ChH",
+    "ChÜ",
+    "G02",
+    "G09",
+    "G10",
+    "G13",
+    "G14",
+    "G18",
+    "G19",
+    "G21",
+    "PhH",
+    "PhÜ",
+    "T03",
+    "T17"
+  ],
+  "total_rooms": 49
+}
