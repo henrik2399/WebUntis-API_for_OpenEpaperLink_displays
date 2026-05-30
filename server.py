@@ -92,6 +92,7 @@ def create_display_json(room_data, room_name):
     commands.append({"text": [4, 2, room_name, "fonts/bahnschrift30", 1]})
 
     now = datetime.now()
+    commands.append({"text": [96, 8, "Stand:", "fonts/bahnschrift20", 1]})
     commands.append({"text": [183, 8, WEEKDAYS_DE[now.weekday()] + ",", "fonts/bahnschrift20", 1]})
     commands.append({"text": [228, 8, now.strftime('%H:%M'), "fonts/bahnschrift20", 1]})
 
