@@ -1,0 +1,21 @@
+[
+  {"box": [0, 0, 322, 176, "black"]},
+
+  {"text": [160, 4, "OpenEPaperLink AP", "fonts/bahnschrift30", "white", 1]},
+  {"box": [0, 38, 320, 3, "#da1f3d"]},
+
+  {"text": [16, 48, "IP", "fonts/bahnschrift20", "lightgray", 0]},
+  {"text": [304, 48, "{ap_ip}", "fonts/bahnschrift20", "white", 2]},
+  {"line": [12, 73, 308, 73, "darkgray"]},
+
+  {"text": [16, 79, "Channel", "fonts/bahnschrift20", "lightgray", 0]},
+  {"text": [304, 79, "{ap_ch}", "fonts/bahnschrift20", "white", 2]},
+  {"line": [12, 104, 308, 104, "darkgray"]},
+
+  {"text": [16, 110, "Tags", "fonts/bahnschrift20", "lightgray", 0]},
+  {"text": [304, 110, "{ap_tagcount}", "fonts/bahnschrift20", "white", 2]},
+  {"line": [12, 135, 308, 135, "darkgray"]},
+
+  {"text": [16, 141, "Datum", "fonts/bahnschrift20", "lightgray", 0]},
+  {"text": [304, 141, "{ap_date}", "fonts/bahnschrift20", "white", 2]}
+]
