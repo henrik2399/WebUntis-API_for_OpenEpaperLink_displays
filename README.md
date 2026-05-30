@@ -1,6 +1,6 @@
 # WebUntis API für OpenEPaperLink
 
-Kleine Brücke zwischen **WebUntis** und **OpenEPaperLink-Displays**. Das Projekt
+Eine Brücke zwischen **WebUntis** und **OpenEPaperLink-Displays**. Das Projekt
 liest die Raumbelegung (Stundenplan) aus der öffentlichen WebUntis-Monitoransicht
 und stellt sie als fertige Zeichenbefehle bereit, die ein E-Paper-Display direkt
 darstellen kann.
