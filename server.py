@@ -65,7 +65,7 @@ def merge_double_lessons(lessons):
             lesson.get('status', 'normal'),
         )
         start, end = parse_time_range(lesson.get('time', ''))
-        if groups and groups[-1]['key'] == key and groups[-1]['end'] and groups[-1]['end'] == start:
+        if groups and groups[-1]['key'] == key:
             groups[-1]['end'] = end or groups[-1]['end']
         else:
             groups.append({'key': key, 'start': start, 'end': end, 'lesson': lesson})
