@@ -75,19 +75,27 @@ Raumnamen gültig sind, zeigt `http://<server-ip>:5000/api/rooms`.
 Das Display (296×128) zeigt:
 
 ```
-Aul                         Sa,   15:57     <- Raum links, Tag + Uhrzeit rechts
--------------------------------------------  <- roter Trennstrich
-13:15 - 14:00            JOr SUT             <- Stunde 1: Zeit, Fach, Lehrer
-5a - 6d                                      <- Klasse(n)
+R201                       Stand: Sa, 15:42
 -------------------------------------------
-09:45 - 10:30            En SCH              <- Stunde 2
-7c
+08:00 - 09:30           Ma SMI
+8a
+-------------------------------------------
+09:45 - 10:30           En BRN
+9c
 ```
 
-- Es werden die **nächsten zwei Stunden** angezeigt.
+(Beispiel mit fiktiven Daten.)
+
+- Links oben der **Raumname**, rechts oben **rechtsbündig** der Stand.
+- Mit **„Stand:"** wird der Zeitpunkt der letzten Aktualisierung angezeigt
+  (Tag + Uhrzeit), z. B. `Stand: Sa, 15:42`.
+- Darunter, getrennt durch den **roten Trennstrich**, die **nächsten zwei Stunden**
+  mit Zeit, Fach + Lehrer und Klasse(n).
 - **Doppelstunden** (gleiche Klasse/Fach/Lehrer in direkt aufeinanderfolgenden
-  Stunden) zählen als **ein** Eintrag mit zusammengefasster Zeit.
-- Bei **mehr als zwei Klassen** wird nur die erste und letzte angezeigt (`5a - 6d`).
+  Stunden) zählen als **ein** Eintrag mit zusammengefasster Zeit
+  (im Beispiel `08:00 - 09:30`).
+- Bei **mehr als zwei Klassen** wird nur die erste und letzte angezeigt
+  (z. B. `8a - 10c`).
 - Ausgefallene Stunden werden rot durchgestrichen.
 
 ## Hinweise
